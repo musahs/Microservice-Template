@@ -1,0 +1,8 @@
+# as this is node you will have to manually install the dependencies using the npm install command
+# sadly no pip install -r requirements.txt type shortcut
+express
+axios
+cors
+dotenv
+nodemon
+cookie-parser # for parsing cookies if we need to
