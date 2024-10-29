@@ -86,7 +86,6 @@ The main entry point of the application. Sets up the Express server, middleware,
     ```sh
     npm i
 
-
 3. Create a .env file in the root directory and add your environment variables:
     ```
     PORT=3001\
